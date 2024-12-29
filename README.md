@@ -4,5 +4,5 @@
 :thought_balloon: Currently figuring Github out! <br/>
 
 
-#### Languages I am currently learning! 
+#### Languages I am currently learning:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
