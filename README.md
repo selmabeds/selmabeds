@@ -4,7 +4,7 @@
 
 ⚙️ Interested in embedded systems and safety-critical software<br/>
 
-🌟 Proficient in Java, Python, and Web-Programming, with strong Object-Oriented Programming (OOP) foundations<br/>
+🌟 Proficient in Java, Python and Web-Programming, with strong Object-Oriented Programming (OOP) foundations<br/>
 
 📗 Currently learning C, C++, and Assembly<br/><br/>
 
