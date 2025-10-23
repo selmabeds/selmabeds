@@ -4,7 +4,12 @@
 
 ⚙️ Interested in embedded systems and safety-critical software<br/>
 
-🌟 Proficient in Java and Python, with strong Object-Oriented Programming (OOP) foundations
+🌟 Proficient in Java and Python, with strong Object-Oriented Programming (OOP) foundations<br/>
 
-📗 Currently learning C, C++, and Assembly
+📗 Currently learning C, C++, and Assembly<br/><br/>
+
+
+**Current Projects:**<br/>
+* [Event Ticketing Website](https://github.com/zaifnatra/SOEN341-F25) using Agile methodology.
+
 
