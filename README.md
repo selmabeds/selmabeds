@@ -4,7 +4,3 @@
 
 
 
-**Current Projects:**<br/>
-* [Event Ticketing Website](https://github.com/zaifnatra/SOEN341-F25) using Agile methodology.
-
-
